@@ -86,7 +86,7 @@ The Geographic Analysis page focuses on the geographical distribution of sellers
 * **São Paulo city** is the top seller city, generating approximately **R$2.7M** in revenue.
 * Other high-performing cities include **Ibtinga, Curitiba, Rio de Janeiro, Guarulhos, and Ribeirão Preto**.
 
----
+![Geographic Analysis](Geographic_analysis)
 
 ## 3️⃣ 💳 Payments & Reviews
 
