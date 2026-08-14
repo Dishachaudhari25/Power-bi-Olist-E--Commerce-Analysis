@@ -168,13 +168,11 @@ Based on the dashboard:
 ```text
 Olist-E-Commerce-Analytics/
 │
-├── Olist_Ecommerce_Analytics.pbix
+├── Project_3.pbix
 ├── README.md
-│
-└── Screenshots/
-    ├── Sales_Overview.png
-    ├── Geographic_Analysis.png
-    └── Payments_Reviews.png
+├── Sales_Overview.png
+├── Geographic_Analysis.png
+└── Payments_Reviews.png
 ```
 
 ---
