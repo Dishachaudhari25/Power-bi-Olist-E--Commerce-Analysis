@@ -64,7 +64,7 @@ The Sales Overview page provides a complete summary of the e-commerce sales perf
 * **August** records one of the highest monthly order counts at approximately **10.8K orders**.
 * **December** has the lowest order count among the displayed months at approximately **5.7K orders**.
 
-![Sales Overview](<img width="1316" height="736" alt="Sales_Overview" src="https://github.com/user-attachments/assets/0018a8e4-04ca-45f0-8bbe-a65ab1124d8a" />
+!(<img width="1316" height="736" alt="Sales_Overview" src="https://github.com/user-attachments/assets/0018a8e4-04ca-45f0-8bbe-a65ab1124d8a" />
 )
 
 ## 2️⃣ 🌎 Geographic Analysis
