@@ -64,8 +64,8 @@ The Sales Overview page provides a complete summary of the e-commerce sales perf
 * **August** records one of the highest monthly order counts at approximately **10.8K orders**.
 * **December** has the lowest order count among the displayed months at approximately **5.7K orders**.
 
-!(<img width="1316" height="736" alt="Sales_Overview" src="https://github.com/user-attachments/assets/0018a8e4-04ca-45f0-8bbe-a65ab1124d8a" />
-)
+<img width="1316" height="736" alt="Sales_Overview" src="https://github.com/user-attachments/assets/0018a8e4-04ca-45f0-8bbe-a65ab1124d8a" />
+
 
 ## 2️⃣ 🌎 Geographic Analysis
 
@@ -87,7 +87,8 @@ The Geographic Analysis page focuses on the geographical distribution of sellers
 * **São Paulo city** is the top seller city, generating approximately **R$2.7M** in revenue.
 * Other high-performing cities include **Ibtinga, Curitiba, Rio de Janeiro, Guarulhos, and Ribeirão Preto**.
 
-![Geographic Analysis](Geographic_analysis)
+<img width="1304" height="737" alt="Geographic_analysis" src="https://github.com/user-attachments/assets/15a52935-f882-482e-a26b-881f6a66feb0" />
+
 
 ## 3️⃣ 💳 Payments & Reviews
 
@@ -119,6 +120,9 @@ Total payment value analyzed is approximately **R$160.09M**.
 * Voucher payments contribute approximately **2.37%**.
 * Debit card contributes a smaller share of the total payment value.
 * The overall payment value increased across the displayed years.
+
+  <img width="1317" height="741" alt="Payments_Reviews" src="https://github.com/user-attachments/assets/aab578ac-0904-4e96-a635-1c51903f8394" />
+
 
 ### Customer Review Insights
 
